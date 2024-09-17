@@ -1,5 +1,5 @@
 	<footer>
-		<p>Copyright © 2024 | Group 4 Design by Rizqi Setiaji & Azhar Gunawan</p>
+		<p>Copyright © 2024 | Developer By Alif Bima Pradana</p>
 		
 		
 	</footer>
