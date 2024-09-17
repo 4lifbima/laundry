@@ -123,8 +123,8 @@
 	</div>
 
 	<div class="copyright">
-		<p>Copyright &copy; 2020 | Group 4 Design by <a href="https://github.com/rizqi07" target="_blank">Rizqi Setiaji</a> & <a href="https://www.instagram.com/azhargunawan00/?hl=id" target="_blank">Azhar Gunawan</a></p>
-	<br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
+		<p>Copyright &copy; 2024 | developer by <a href="https://github.com/4lifbima" target="_blank">programer handal</a></p>
+	
 	
 	</div>
 
